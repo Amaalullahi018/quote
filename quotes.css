@@ -1,0 +1,46 @@
+/* h1{
+    font-size: 100px;
+    color: palevioletred;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 35px;
+}
+button{
+    font-size: 20px;
+    width: 200px;
+    height: 70px;
+    border: none;
+    border-radius: 12px;
+    background-color:plum;
+    transition: all 1s;
+     margin-left: 300px; 
+}
+button:hover{
+   background-color: pink;
+   transform: scale(1.1);
+}
+center{
+    margin-top: 150px;
+} */
+
+
+h1{
+    
+    color: palevioletred;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 100px;
+}
+p{
+    font-size: 35px;
+    padding-bottom: 100px;
+}
+.btn-primary{
+    background-color:plum;
+    transition: all 1s;
+    border: none;  
+}
+.btn-primary:hover{
+    background-color: pink;
+    transform: scale(1.1);
+}
